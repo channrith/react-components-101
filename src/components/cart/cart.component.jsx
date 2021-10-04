@@ -1,8 +1,8 @@
 import React from 'react';
 
-import './card.styles.css';
+import './cart.styles.css';
 
-export const Card = (props) => (
+export const Cart = (props) => (
   <div className='card-container'>
     <img
       alt='monster'

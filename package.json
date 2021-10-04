@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "react-components-101",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://channrith.github.io/monsters-rolodex",
+  "homepage": "https://channrith.github.io/react-components-101",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
